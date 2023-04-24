@@ -105,24 +105,3 @@ ON
 		FMCG_ORDER_PRIORITY_CTE2.Customer_ID = FMCG_Product.Customer_ID
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SELECT 
-		*
-FROM 
-		[practice].[dbo].[FMCG_Product]
